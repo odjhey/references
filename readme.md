@@ -9,3 +9,6 @@
 - https://github.com/spy16/droplets
 - https://github.com/DATA-DOG/go-sqlmock (testing)
 - https://github.com/xo/xo (cli)
+
+## Svelte
+- https://svelte.dev/tutorial/event-modifiers
