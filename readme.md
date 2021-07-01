@@ -12,3 +12,6 @@
 
 ## Svelte
 - https://svelte.dev/tutorial/event-modifiers
+
+## Very long term - better start now
+- https://monkeylang.org/
