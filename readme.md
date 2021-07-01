@@ -13,5 +13,8 @@
 ## Svelte
 - https://svelte.dev/tutorial/event-modifiers
 
+## Codebase
+- https://norvig.com/spell-correct.html
+
 ## Very long term - better start now
 - https://monkeylang.org/
