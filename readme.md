@@ -21,3 +21,6 @@
 
 ## Very long term - better start now
 - https://monkeylang.org/
+
+## Blockchain
+- https://github.com/austintgriffith/scaffold-eth <- try this atleast
