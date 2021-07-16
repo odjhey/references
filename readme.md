@@ -28,3 +28,6 @@
 
 ## Blockchain
 - https://github.com/austintgriffith/scaffold-eth <- try this atleast
+
+## Practices
+- https://github.com/golang/go/wiki/CodeReviewComments <- must read
