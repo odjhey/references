@@ -17,6 +17,9 @@
 ## Clojure
 - https://github.com/noprompt/meander <- start with this
 
+## WASM
+- https://github.com/diekmann/wasm-fizzbuzz - done reading, time to try
+
 ## Codebase
 - https://norvig.com/spell-correct.html
 
