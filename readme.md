@@ -34,3 +34,6 @@
 
 ## Design
 - https://github.com/odjhey/system-design-primer
+
+## Read
+- https://storm-framework.github.io/ no need to try, but read on why/when/how
