@@ -31,3 +31,6 @@
 
 ## Practices
 - https://github.com/golang/go/wiki/CodeReviewComments <- must read
+
+## Design
+- https://github.com/odjhey/system-design-primer
