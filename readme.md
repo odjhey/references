@@ -34,6 +34,8 @@
 
 ## Design
 - https://github.com/odjhey/system-design-primer
+- https://microservices.io/patterns/index.html
+- https://docs.microsoft.com/en-us/azure/architecture/patterns/
 
 ## Read
 - https://storm-framework.github.io/ no need to try, but read on why/when/how
