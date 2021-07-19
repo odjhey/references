@@ -37,5 +37,8 @@
 - https://microservices.io/patterns/index.html
 - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 
+## ML
+- https://developers.google.com/machine-learning/guides/rules-of-ml
+
 ## Read
 - https://storm-framework.github.io/ no need to try, but read on why/when/how
