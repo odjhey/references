@@ -40,6 +40,11 @@
 ## ML
 - https://developers.google.com/machine-learning/guides/rules-of-ml
 
+## FP
+- https://blog.functorial.com/
+- https://book.purescript.org/chapter4.html
+- https://gcanti.github.io/fp-ts/
+
 ## Read
 - https://storm-framework.github.io/ no need to try, but read on why/when/how
 
