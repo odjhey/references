@@ -54,3 +54,7 @@
 ## Web
 - https://tropical.js.org/
 - try hotwired/stimulus + turbo (these from basecamp yeah!)
+
+## Node
+- you owe it to yourself to try and use immer and baconjs effectively
+- rxjs, cyclejs, rambda, fp-ts, sactuary, a few of the libs you love
