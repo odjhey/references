@@ -47,6 +47,7 @@
 
 ## Read
 - https://storm-framework.github.io/ no need to try, but read on why/when/how
+- https://matt.might.net/articles/what-cs-majors-should-know/
 
 ## Others 
 - https://github.com/bensmithett/tropical-utils <- copy, simple good pack
