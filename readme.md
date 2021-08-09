@@ -20,6 +20,9 @@
 ## WASM
 - https://github.com/diekmann/wasm-fizzbuzz - done reading, time to try
 
+## Database
+- https://docs.racket-lang.org/datalog/ <- very important, prioritize this
+
 ## Codebase
 - https://norvig.com/spell-correct.html
 
