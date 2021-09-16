@@ -54,6 +54,7 @@
 - https://github.com/sdmg15/Best-websites-a-programmer-should-visit#coding-style
 - https://martinfowler.com/architecture/
 - http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer
+- https://tgvashworth.com/2014/08/31/csp-and-transducers.html
 
 ## Others 
 - https://github.com/bensmithett/tropical-utils <- copy, simple good pack
