@@ -34,6 +34,7 @@
 
 ## Practices
 - https://github.com/golang/go/wiki/CodeReviewComments <- must read
+- https://raw.githubusercontent.com/jlongster/transducers.js/master/README.md
 
 ## Design
 - https://github.com/odjhey/system-design-primer
