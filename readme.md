@@ -56,6 +56,7 @@
 - https://martinfowler.com/architecture/
 - http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer
 - https://tgvashworth.com/2014/08/31/csp-and-transducers.html
+- https://github.com/frankmcsherry/blog
 
 ## Others 
 - https://github.com/bensmithett/tropical-utils <- copy, simple good pack
