@@ -4,6 +4,7 @@
 - https://erlang.org/doc/man/mnesia.html
 - http://erlang.org/doc/design_principles/des_princ.html or http://erlang.org/documentation/doc-4.8.2/doc/design_principles/des_princ.html
 - https://ieftimov.com/post/a-deeper-dive-in-elixir-plug/
+- start with me https://github.com/mtrudel/bandit
 
 ## Golang
 - https://github.com/golang-standards/project-layout
