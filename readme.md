@@ -61,6 +61,7 @@
 
 ## Others 
 - https://github.com/bensmithett/tropical-utils <- copy, simple good pack
+- https://calliope.readthedocs.io/en/stable/index.html <- Calliope: a multi-scale energy systems modelling framework
 
 ## Web
 - https://tropical.js.org/
