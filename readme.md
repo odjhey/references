@@ -6,6 +6,9 @@
 - https://ieftimov.com/post/a-deeper-dive-in-elixir-plug/
 - start with me https://github.com/mtrudel/bandit
 
+## Beam
+- https://github.com/llaisdy/beam_languages#33-languages-on-the-beam
+
 ## Golang
 - https://github.com/golang-standards/project-layout
 - https://github.com/spy16/droplets
