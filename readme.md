@@ -41,6 +41,7 @@
 - https://github.com/odjhey/system-design-primer
 - https://microservices.io/patterns/index.html
 - https://docs.microsoft.com/en-us/azure/architecture/patterns/
+- http://www.tomharding.me/fantasy-land/
 
 ## ML
 - https://developers.google.com/machine-learning/guides/rules-of-ml
