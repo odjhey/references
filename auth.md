@@ -1,0 +1,4 @@
+- https://www.keycloak.org/
+- https://github.com/ory/hydra
+- https://github.com/simov/grant
+- https://www.npmjs.com/package/argon2
