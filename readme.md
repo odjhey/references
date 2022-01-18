@@ -74,6 +74,7 @@
 ## Node
 - you owe it to yourself to try and use immer and baconjs effectively
 - rxjs, cyclejs, rambda, fp-ts, sactuary, a few of the libs you love
+- https://jrsinclair.com/
 
 ## SRE
 - https://github.com/upgundecha/howtheysre
