@@ -84,3 +84,6 @@
 
 ## Watch
 - https://roc-lang.org/
+
+## Animation
+- https://the12principles.tumblr.com/
