@@ -14,3 +14,10 @@
 
 ### todo
 - [ ] find better ways of showing/teaching `transducers`
+- [ ] checkout select pattern (see mst-gql for selector implementation if necessary)  
+```js
+useQuery(..., {
+  select: someFunctor()
+})
+```
+- [ ] transformation usecases (form <-- --> api, api <-- --> ui) 
