@@ -1,4 +1,4 @@
-- most are mine, and may or may not yet proven/used in production
+- most are rephrased from existing concepts that may or may not yet proven/used in production
 - most could be general rules, unless context is specified, most are from a nodejs perspective
 
 1. `methodThatCouldError() : {ok: true, data: any} | {ok: false, error: any}` <- this signature is king
