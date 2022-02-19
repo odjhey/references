@@ -21,3 +21,8 @@ useQuery(..., {
 })
 ```
 - [ ] transformation usecases (form <-- --> api, api <-- --> ui) 
+
+
+## ui
+- always require height, width, and aspect-ration, to avoid this thing called Cumulative Layout Shift (CLS)
+ https://web.dev/cls/
