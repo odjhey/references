@@ -26,4 +26,5 @@ useQuery(..., {
 ## ui
 - always require height, width, and aspect-ration, to avoid this thing called Cumulative Layout Shift (CLS)
  https://web.dev/cls/
+- read about design tokens
 - remote data pattern (cells) -> type RemoteState<E, T> = notAsked(aka initializing) | loading | failure<E> | success<T> , could be used as WebRemote<T> = RemoteState<GQLErr|HttpErr, T>
