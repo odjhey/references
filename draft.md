@@ -10,6 +10,14 @@
 ##### resources
 - https://sites.google.com/site/prologsite/prolog-problems
 
+#### UI links
+- https://uilearn.com/blog/
+- https://www.checklist.design/
+- https://lawsofux.com/
+- https://untools.co/
+- https://uxhints.com/
+- https://principles.design/
+
 #### Tools
 
 ##### try
