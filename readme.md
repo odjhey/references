@@ -93,3 +93,6 @@
 - http://sweng.the-davies.net/Home/rustys-api-design-manifesto
 - https://10up.github.io/Engineering-Best-Practices/react/
 - https://khalilstemmler.com/articles/client-side-architecture/architecture/
+
+## Data
+- https://www.datacouncil.ai/blog/25-hot-new-data-tools-and-what-they-dont-do
