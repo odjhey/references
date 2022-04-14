@@ -96,3 +96,4 @@
 
 ## Data
 - https://www.datacouncil.ai/blog/25-hot-new-data-tools-and-what-they-dont-do
+- https://github.com/singer-io/getting-started/blob/master/docs/SPEC.md#singer-specification
