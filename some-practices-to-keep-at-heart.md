@@ -12,6 +12,7 @@
    - profit (meaning you dont have to check `if null` if `NaN` etc etc if data is cleaned and reliable
 7. only pass what is needed, dont pass the whole data structure, prefer smaller fragments of the whole, only pass what is needed
 8. please learn to love the Maybe/`Option` type. please. also, try using it with the `kind` attr
+9. avoid the `default` case in switch cases, use string unions in your switch cases, short circuit ur switch cases. doing the three would make sure your switch cases handles every case. typescript helps you detect when the string union is updated.
 
 
 ### todo
