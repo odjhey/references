@@ -13,6 +13,7 @@
 7. only pass what is needed, dont pass the whole data structure, prefer smaller fragments of the whole, only pass what is needed
 8. please learn to love the Maybe/`Option` type. please. also, try using it with the `kind` attr
 9. avoid the `default` case in switch cases, use string unions in your switch cases, short circuit ur switch cases. doing the three would make sure your switch cases handles every case. typescript helps you detect when the string union is updated.
+10. `kind` is powerful when dealing with unions. i.e. `type Payment = {amount: number type: PaymentType}; type PaymentType = Cash | Card; type Cash = { kind: "Cash" ...}` very useful when using type guards/duck guards.
 
 
 ### todo
