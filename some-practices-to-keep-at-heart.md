@@ -2,7 +2,7 @@
 - most could be general rules, unless context is specified, most are from a nodejs perspective
 
 1. `methodThatCouldError() : {ok: true, data: any} | {ok: false, error: any}` <- this signature is king
-   - alternative is the Result type = `type Result<S, E> = Success<S> | Error<E>; type Success<T> = {kind: "", data: T} ; type Error<T> = {kind: "", data: T}` **very important ung `kind`
+   - alternative is the Result type = `type Result<S, E> = Success<S> | Error<E>; type Success<T> = {kind: "", data: T} ; type Error<T> = {kind: "", data: T}` **very important ung `kind` for type guarding purposes
 3. use date as truthy values over plain booleans for flags when storing values (i.e. prefer `publishedAt` over `isPublished`when storing), `isPublished` has still value in predicate functions
 4. IoC (what else?) simply throw and interface in the middle. done.
 5. `parsing` as a form of validation
