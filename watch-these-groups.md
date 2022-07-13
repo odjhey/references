@@ -6,3 +6,4 @@
 ### blogs
 - https://github.blog/2021-04-27-ship-code-faster-safer-feature-flags/
 - https://jasonet.co/
+- https://blog.ploeh.dk/
