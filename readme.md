@@ -45,6 +45,7 @@
 - https://microservices.io/patterns/index.html
 - https://docs.microsoft.com/en-us/azure/architecture/patterns/
 - http://www.tomharding.me/fantasy-land/
+- https://youtu.be/BlSLe9d_t3w?t=545
 
 ## ML
 - https://developers.google.com/machine-learning/guides/rules-of-ml
