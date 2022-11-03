@@ -5,6 +5,9 @@
 - http://erlang.org/doc/design_principles/des_princ.html or http://erlang.org/documentation/doc-4.8.2/doc/design_principles/des_princ.html
 - https://ieftimov.com/post/a-deeper-dive-in-elixir-plug/
 - start with me https://github.com/mtrudel/bandit
+- https://blog.stenmans.org/theBeamBook/
+- https://beam-wisdoms.clau.se/en/latest/
+- https://github.com/erlang/otp/tree/master/erts/emulator/internal_doc
 
 ## Beam
 - https://github.com/llaisdy/beam_languages#33-languages-on-the-beam
