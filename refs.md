@@ -1,1 +1,2 @@
 - slatestarcodex
+- http://www.fhi.ox.ac.uk/wp-content/uploads/pascals-mugging.pdf
